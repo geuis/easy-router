@@ -1,5 +1,5 @@
 # easy-router
-Unobtrusive and ultra-lightweight router library 100% compatible with the Backbone.Router's style for declaring routes,
+Unobtrusive and ultra-light weight router library 100% compatible with the Backbone.Router's style for declaring routes,
 while providing the following advantages:
 * __Unobtrusive__, it is designed from the beginning to be integrated with other libraries / frameworks (also vanilla).
 * __Great performance__, only native functions are used.
@@ -11,8 +11,8 @@ while providing the following advantages:
 
 EasyRouter provides methods for routing client-side pages, and connecting them to actions.
 
-¿Want to create a modern hibrid-app or a website using something like React, Web Components, Handlebars, vanilla JS, etc.?
-¿Have an existing Backbone project and want to migrate to a more modern framework? Good news, EasyRouter will integrates perfectly with all of those!
+Want to create a modern hybrid app or a website using something like React, Web Components, Handlebars, vanilla JS, etc.?
+Have an existing Backbone project and want to migrate to a more modern framework? Good news, EasyRouter will integrate perfectly with all of those!
 
 Install it via [Bower](http://bower.io/):
 ``` bash
